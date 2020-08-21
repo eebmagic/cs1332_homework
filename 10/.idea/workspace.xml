@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bce588a-db1f-4c7f-bdd9-4ccf55771fc0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aMYEl22XvtIS4hsSPaGbx4X8vJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in 10">
+    <configuration name="All in 10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="10" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphAlgorithmsStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="10" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphAlgorithmsStudentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphAlgorithmsStudentTest.testBFS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="10" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphAlgorithmsStudentTest" />
+      <option name="METHOD_NAME" value="testBFS" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in 10" />
+        <item itemvalue="JUnit.GraphAlgorithmsStudentTest" />
+        <item itemvalue="JUnit.GraphAlgorithmsStudentTest.testBFS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bce588a-db1f-4c7f-bdd9-4ccf55771fc0" name="Default Changelist" comment="" />
+      <created>1586546820787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586546820787</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2518" height="501" key="GridCell.Tab.0.bottom" timestamp="1586720414730">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="501" key="GridCell.Tab.0.bottom/0.23.2560.1417/-1920.301.1920.1057@0.23.2560.1417" timestamp="1586720414730" />
+    <state width="2518" height="501" key="GridCell.Tab.0.center" timestamp="1586720414729">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="501" key="GridCell.Tab.0.center/0.23.2560.1417/-1920.301.1920.1057@0.23.2560.1417" timestamp="1586720414729" />
+    <state width="2518" height="501" key="GridCell.Tab.0.left" timestamp="1586720414728">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="501" key="GridCell.Tab.0.left/0.23.2560.1417/-1920.301.1920.1057@0.23.2560.1417" timestamp="1586720414728" />
+    <state width="2518" height="501" key="GridCell.Tab.0.right" timestamp="1586720414730">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="501" key="GridCell.Tab.0.right/0.23.2560.1417/-1920.301.1920.1057@0.23.2560.1417" timestamp="1586720414730" />
+    <state width="2518" height="501" key="GridCell.Tab.1.bottom" timestamp="1586720414733">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="501" key="GridCell.Tab.1.bottom/0.23.2560.1417/-1920.301.1920.1057@0.23.2560.1417" timestamp="1586720414733" />
+    <state width="2518" height="501" key="GridCell.Tab.1.center" timestamp="1586720414731">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="501" key="GridCell.Tab.1.center/0.23.2560.1417/-1920.301.1920.1057@0.23.2560.1417" timestamp="1586720414731" />
+    <state width="2518" height="501" key="GridCell.Tab.1.left" timestamp="1586720414731">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="501" key="GridCell.Tab.1.left/0.23.2560.1417/-1920.301.1920.1057@0.23.2560.1417" timestamp="1586720414731" />
+    <state width="2518" height="501" key="GridCell.Tab.1.right" timestamp="1586720414732">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="501" key="GridCell.Tab.1.right/0.23.2560.1417/-1920.301.1920.1057@0.23.2560.1417" timestamp="1586720414732" />
+    <state x="959" y="564" key="com.intellij.ide.util.TipDialog" timestamp="1586585682885">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="959" y="564" key="com.intellij.ide.util.TipDialog/0.23.2560.1417/-1920.301.1920.1057@0.23.2560.1417" timestamp="1586585682885" />
+    <state x="992" y="632" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586546967268">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="992" y="632" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.2560.1417/-1920.301.1920.1057@0.23.2560.1417" timestamp="1586546967268" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Tests/GraphAlgorithmsStudentTest.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

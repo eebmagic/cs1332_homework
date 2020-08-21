@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1e84bef-8900-4a14-8876-aec3c6dad2d1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X0xO4cyjnwKqkOsV13NtBWXBcb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.215" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in 04">
+    <configuration name="GenericTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenericTest" />
+      <module name="04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in 04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="04" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BSTTylersTests.test_17_equals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="04" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BSTTylersTests" />
+      <option name="METHOD_NAME" value="test_17_equals" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchottJUnit04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="04" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SchottJUnit04" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in 04" />
+        <item itemvalue="Application.GenericTest" />
+        <item itemvalue="JUnit.BSTTylersTests.test_17_equals" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="JUnit.SchottJUnit04" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1e84bef-8900-4a14-8876-aec3c6dad2d1" name="Default Changelist" comment="" />
+      <created>1580196777493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580196777493</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1093" y="448" key="#com.intellij.ide.util.MemberChooser" timestamp="1580945675965">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1093" y="448" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1580945675965" />
+    <state x="1275" y="432" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1580197043237">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1275" y="432" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1580197043237" />
+    <state width="2518" height="356" key="GridCell.Tab.0.bottom" timestamp="1581052083455">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1878" height="356" key="GridCell.Tab.0.bottom/0.23.1280.777/-1920.-455.1920.1057@-1920.-455.1920.1057" timestamp="1580326632557" />
+    <state width="2518" height="356" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1580442015229" />
+    <state width="2518" height="356" key="GridCell.Tab.0.bottom/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1581052083455" />
+    <state width="2518" height="356" key="GridCell.Tab.0.center" timestamp="1581052083454">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1878" height="356" key="GridCell.Tab.0.center/0.23.1280.777/-1920.-455.1920.1057@-1920.-455.1920.1057" timestamp="1580326632557" />
+    <state width="2518" height="356" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1580442015228" />
+    <state width="2518" height="356" key="GridCell.Tab.0.center/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1581052083454" />
+    <state width="2518" height="356" key="GridCell.Tab.0.left" timestamp="1581052083454">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1878" height="356" key="GridCell.Tab.0.left/0.23.1280.777/-1920.-455.1920.1057@-1920.-455.1920.1057" timestamp="1580326632556" />
+    <state width="2518" height="356" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1580442015228" />
+    <state width="2518" height="356" key="GridCell.Tab.0.left/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1581052083454" />
+    <state width="2518" height="356" key="GridCell.Tab.0.right" timestamp="1581052083455">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1878" height="356" key="GridCell.Tab.0.right/0.23.1280.777/-1920.-455.1920.1057@-1920.-455.1920.1057" timestamp="1580326632557" />
+    <state width="2518" height="356" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1580442015229" />
+    <state width="2518" height="356" key="GridCell.Tab.0.right/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1581052083455" />
+    <state width="2518" height="356" key="GridCell.Tab.1.bottom" timestamp="1581052083457">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1878" height="356" key="GridCell.Tab.1.bottom/0.23.1280.777/-1920.-455.1920.1057@-1920.-455.1920.1057" timestamp="1580326606709" />
+    <state width="2518" height="356" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1580442015230" />
+    <state width="2518" height="356" key="GridCell.Tab.1.bottom/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1581052083457" />
+    <state width="2518" height="356" key="GridCell.Tab.1.center" timestamp="1581052083456">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1878" height="356" key="GridCell.Tab.1.center/0.23.1280.777/-1920.-455.1920.1057@-1920.-455.1920.1057" timestamp="1580326606707" />
+    <state width="2518" height="356" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1580442015230" />
+    <state width="2518" height="356" key="GridCell.Tab.1.center/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1581052083456" />
+    <state width="2518" height="356" key="GridCell.Tab.1.left" timestamp="1581052083456">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1878" height="356" key="GridCell.Tab.1.left/0.23.1280.777/-1920.-455.1920.1057@-1920.-455.1920.1057" timestamp="1580326606706" />
+    <state width="2518" height="356" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1580442015229" />
+    <state width="2518" height="356" key="GridCell.Tab.1.left/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1581052083456" />
+    <state width="2518" height="356" key="GridCell.Tab.1.right" timestamp="1581052083456">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1878" height="356" key="GridCell.Tab.1.right/0.23.1280.777/-1920.-455.1920.1057@-1920.-455.1920.1057" timestamp="1580326606707" />
+    <state width="2518" height="356" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1580442015230" />
+    <state width="2518" height="356" key="GridCell.Tab.1.right/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1581052083456" />
+    <state x="925" y="313" key="SettingsEditor" timestamp="1580950025513">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="925" y="313" key="SettingsEditor/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1580950025513" />
+    <state x="638" y="320" key="com.intellij.ide.util.TipDialog" timestamp="1581345829521">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="-963" y="-51" key="com.intellij.ide.util.TipDialog/0.23.1280.777/-1920.-455.1920.1057@-1920.-455.1920.1057" timestamp="1580313540994" />
+    <state x="638" y="320" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1581345829521" />
+    <state x="1344" y="567" key="com.intellij.ide.util.TipDialog/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1581049955055" />
+    <state x="1153" y="632" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580197438571">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1153" y="632" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1580197438571" />
+    <state x="792" y="415" key="new project wizard" timestamp="1580196897590">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="792" y="415" key="new project wizard/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1580196897590" />
+    <state x="1229" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1581051163661">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1229" y="348" width="670" height="676" key="search.everywhere.popup/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1581051163661" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Tests/BSTStudentTest.java</url>
+          <line>160</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Tests/BSTStudentTest.java</url>
+          <line>156</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Tests/BSTStudentTest.java</url>
+          <line>312</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Tests/BSTTylersTests.java</url>
+          <line>394</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

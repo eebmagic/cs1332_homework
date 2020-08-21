@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4b1ea51-00e8-4179-9132-643f849fb055" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/AVL.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1YE7D38JktCXpkZUM62lYcj9SKx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in 07">
+    <configuration name="All in 07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="07" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KSudaJUnit07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="07" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KSudaJUnit07" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Karthik_AVL_JUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="07" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Karthik_AVL_JUnit" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PMaheshJUnit07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="07" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PMaheshJUnit07" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchottJUnit07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="07" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SchottJUnit07" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in 07" />
+        <item itemvalue="JUnit.KSudaJUnit07" />
+        <item itemvalue="JUnit.SchottJUnit07" />
+        <item itemvalue="JUnit.PMaheshJUnit07" />
+        <item itemvalue="JUnit.Karthik_AVL_JUnit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4b1ea51-00e8-4179-9132-643f849fb055" name="Default Changelist" comment="" />
+      <created>1582495776750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582495776750</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="964" y="435" key="#GenericTest_(1)" timestamp="1583712942154">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="964" y="435" key="#GenericTest_(1)/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1583712942154" />
+    <state width="2518" height="482" key="GridCell.Tab.0.bottom" timestamp="1583728243485">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1238" height="289" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1583452590005" />
+    <state width="2518" height="482" key="GridCell.Tab.0.bottom/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1583728243485" />
+    <state width="2518" height="482" key="GridCell.Tab.0.center" timestamp="1583728243483">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1238" height="289" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1583452590004" />
+    <state width="2518" height="482" key="GridCell.Tab.0.center/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1583728243483" />
+    <state width="2518" height="482" key="GridCell.Tab.0.left" timestamp="1583728243482">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1238" height="289" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1583452590004" />
+    <state width="2518" height="482" key="GridCell.Tab.0.left/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1583728243482" />
+    <state width="2518" height="482" key="GridCell.Tab.0.right" timestamp="1583728243484">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1238" height="289" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1583452590005" />
+    <state width="2518" height="482" key="GridCell.Tab.0.right/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1583728243484" />
+    <state width="2518" height="326" key="GridCell.Tab.1.bottom" timestamp="1583727583508">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="326" key="GridCell.Tab.1.bottom/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1583727583508" />
+    <state width="2518" height="326" key="GridCell.Tab.1.center" timestamp="1583727583507">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="326" key="GridCell.Tab.1.center/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1583727583507" />
+    <state width="2518" height="326" key="GridCell.Tab.1.left" timestamp="1583727583506">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="326" key="GridCell.Tab.1.left/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1583727583506" />
+    <state width="2518" height="326" key="GridCell.Tab.1.right" timestamp="1583727583507">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="326" key="GridCell.Tab.1.right/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1583727583507" />
+    <state x="319" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1584558578064">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="319" y="244" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1584558578064" />
+    <state x="637" y="426" key="com.intellij.ide.util.TipDialog/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1583728224379" />
+    <state x="992" y="632" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582497585895">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="992" y="632" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1582497585895" />
+    <state x="34" y="34" key="new project wizard" timestamp="1584558599650">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="34" y="34" key="new project wizard/0.23.1280.777@0.23.1280.777" timestamp="1584558599650" />
+    <state x="945" y="346" key="run.anything.popup" timestamp="1583715297639">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="945" y="346" key="run.anything.popup/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1583715297639" />
+    <state x="610" y="207" width="1340" height="1233" key="search.everywhere.popup" timestamp="1583725027144">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1583618570447" />
+    <state x="610" y="207" width="1340" height="1233" key="search.everywhere.popup/0.23.2560.1417/2560.-413.1080.1897@0.23.2560.1417" timestamp="1583725027144" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Tests/AVLStudentTest.java</url>
+          <line>129</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Tests/AVLStudentTest.java</url>
+          <line>177</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Tests/KSudaJUnit07.java</url>
+          <line>359</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Tests/GenericTest.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Tests/Karthik_AVL_JUnit.java</url>
+          <line>959</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Tests/Karthik_AVL_JUnit.java</url>
+          <line>133</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Tests/AVLStudentTest.java</url>
+          <line>316</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
